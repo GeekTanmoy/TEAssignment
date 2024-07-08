@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TechExactly</string>
+    <string name="tanmoy">Tanmoy</string>
+    <string name="connected">Connected</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="search">Search</string>
+    <string name="no_apps_available">No apps available</string>
+</resources>
